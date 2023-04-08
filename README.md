@@ -2,7 +2,7 @@
 Sequential data analysis and prediction
 
 
-## Model Project Evaluation!!
+## Model Project Evaluation_1(Apr 18th)!! 
 [![Python 3.10.11](https://img.shields.io/badge/python-2.7+-blue.svg)](https://www.python.org/downloads/release/python-31011/)
 
 Bayesian discriminant functions and single layer neural networks are two different approaches to classification tasks, each with its own strengths and weaknesses. The choice of which approach to use depends on the specific characteristics of the problem at hand.
